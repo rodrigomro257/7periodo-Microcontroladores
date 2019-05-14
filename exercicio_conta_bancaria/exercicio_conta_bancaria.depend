@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551275828 source:c:\users\windows\desktop\engenharia da computação\7° período\microcontroladores\exercicio_conta_bancaria\conta_bancaria.c
+	<stdio.h>
+	<stdlib.h>
+	"conta_bancaria.h"
+
+1551273535 c:\users\windows\desktop\engenharia da computação\7° período\microcontroladores\exercicio_conta_bancaria\conta_bancaria.h
+
+1551275903 source:c:\users\windows\desktop\engenharia da computação\7° período\microcontroladores\exercicio_conta_bancaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conta_bancaria.h"
+
