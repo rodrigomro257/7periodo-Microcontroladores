@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551361921 source:c:\users\windows\desktop\engenharia da computação\7° período\microcontroladores\exercicio_escola\main.c
+	<stdio.h>
+	<stdlib.h>
+	"escola.h"
+
+1551362394 source:c:\users\windows\desktop\engenharia da computação\7° período\microcontroladores\exercicio_escola\escola.c
+	<stdio.h>
+	<stdlib.h>
+	"escola.h"
+
+1551362166 c:\users\windows\desktop\engenharia da computação\7° período\microcontroladores\exercicio_escola\escola.h
+
