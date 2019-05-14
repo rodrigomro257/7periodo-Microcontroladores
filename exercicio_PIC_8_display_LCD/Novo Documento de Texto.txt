@@ -1,0 +1,11 @@
+Exercício Micro:
+fazer o mesmo do anterior com display.
+HORA: HH:MM:SS
+DATA: DD/MM/AA
+botão troca tela faz:
+ALARME: 
+HH:MM:SS
+botão troca tela volta pro anterior. 
+outro botão para incrementar. 
+outro botão para decrementar.
+outro botão posiciona o cursor. 
